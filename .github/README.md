@@ -13,7 +13,7 @@ Audify Music 🎧 + Management
 <a href="https://github.com/GrayBots/Audify/network/members"> <img src="https://img.shields.io/github/forks/GrayBots/Audify?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/GrayBots/Audify/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/GrayBots/Audify/commits/Nikchil"> <img src="https://img.shields.io/github/last-commit/GrayBots/Audify?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/GrayBots/Audify/commits/GrayBots"> <img src="https://img.shields.io/github/last-commit/GrayBots/Audify?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 ---
@@ -117,7 +117,7 @@ Easiest Heroku Deploy 🤭
 Host Locally 🤕
 </h3>
 
-- Get your [Necessary Variables](https://github.com/GrayBots/Audify/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/GrayBots/Audify/blob/main/sample.env)
 
 ## ⚙️ Setup Guide
 
