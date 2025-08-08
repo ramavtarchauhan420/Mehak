@@ -20,8 +20,8 @@ BOT_TOKEN = getenv("BOT_TOKEN", "")
 OWNER_ID = int(getenv("OWNER_ID", "0"))
 
 # Music API Configs
-API_BASE_URL = getenv("API_URL", "http://deadlinetech.site") #API Config ~
-API_KEY = getenv("API_KEY", None)
+API_BASE_URL = getenv("API_URL", "https://api.thequickearn.xyz") #API Config ~
+API_KEY = getenv("API_KEY", "NxGBNexGenBotsb4f439")
 DOWNLOADS_DIR = "downloads"
 
 # Basic Bot Configs
