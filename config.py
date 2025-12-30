@@ -19,10 +19,9 @@ API_HASH = getenv("API_HASH", "")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 OWNER_ID = int(getenv("OWNER_ID", "0"))
 
-# Music API Configs
-API_BASE_URL = getenv("API_URL", "https://api.thequickearn.xyz") #API Config ~
-API_KEY = getenv("API_KEY", "NxGBNexGenBotsb4f439")
-DOWNLOADS_DIR = "downloads"
+API_URL = getenv("API_URL", 'https://api2.nexgenbots.xyz') #youtube song url
+VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.nexgenbots.xyz')
+API_KEY = getenv("API_KEY", "30DxNexGenBotsdc9b8a") # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
 
 # Basic Bot Configs
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Nikchil") #Replace With Yours ~
